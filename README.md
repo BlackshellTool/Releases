@@ -10,6 +10,8 @@
 
 Created by **Acap**
 
+`Discord: acap.official`
+
 [Portfolio](https://acap-portfolio.edgeone.app/)
 [Discord](https://discord.gg/fKSSYRfxyN)
 [Linkpad](https://linkpad.lol/acap)
