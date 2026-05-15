@@ -5,7 +5,15 @@
 **Powerful & Private Hacking Tool**
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Version](https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square)](#)
+
+Created by **Acap**
+
+[Portfolio](https://acap-portfolio.edgeone.app/)
+[Discord](https://discord.gg/fKSSYRfxyN)
+[Linkpad](https://linkpad.lol/acap)
+[Youtube](https://www.youtube.com/@acapishere)
 
 </div>
 
