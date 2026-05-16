@@ -22,7 +22,7 @@ Created by **Acap**
 ---
 
 ## Download
-- You can download the tool on [mediafire](https://www.mediafire.com/file/oqc39l04pfr5z8c/Blackshell.exe/file)
+- You can download the tool on [mediafire]()
 
 ![Preview](preview2.png "Preview")
 
