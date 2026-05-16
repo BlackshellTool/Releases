@@ -22,9 +22,9 @@ Created by **Acap**
 ---
 
 ## Download
-- You can download the tool on [mediafire](https://www.mediafire.com/file/80ukf0p8qjfb7tx/Blackshell.exe/file)
+- You can download the tool on [mediafire](https://www.mediafire.com/file/oqc39l04pfr5z8c/Blackshell.exe/file)
 
-![Preview](preview.png "Preview")
+![Preview](preview2.png "Preview")
 
 ---
 
